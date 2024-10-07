@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">netstatinfo</string>
+    <string name="supported_5g_types">Supported 5G Types</string>
+    <string name="no_5g_support">No 5G support available</string>
+</resources>
